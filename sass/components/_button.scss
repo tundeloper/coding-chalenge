@@ -1,0 +1,12 @@
+.btn {
+  padding: 0.7rem;
+  border-radius: 0.3rem;
+  background-color: $color-tertiary-light;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.btn:hover {
+  transform: translateY(-0.2rem);
+}
